@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "nombre": "Tienda 1",
+    "foto": "https://via.placeholder.com/150",
+    "etiquetas": [
+      "Todo",
+      "Bowl"
+    ],
+    "menus": [
+      {
+        "nombre": "Menu 1",
+        "precio": 10,
+        "descripcion": "Delicioso menú de prueba",
+        "etiqueta": "Vegetariano",
+        "imagen": "https://via.placeholder.com/100"
+      },
+      {
+        "nombre": "Menu 2",
+        "precio": 15,
+        "descripcion": "Otro menú delicioso",
+        "etiqueta": "Vegano",
+        "imagen": "https://via.placeholder.com/100"
+      },
+      {
+        "nombre": "Pizza",
+        "precio": 1000000,
+        "descripcion": "rica",
+        "etiqueta": "Comida rápida",
+        "imagen": "/assets/fotos_menu/1728651180740-images (1).jpeg"
+      },
+      {
+        "nombre": "pizzza 2",
+        "precio": 11233,
+        "descripcion": "dsad",
+        "etiqueta": "Comida rápida",
+        "imagen": "/assets/fotos_menu/1728653978814-images (1).jpeg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "nombre": "Tienda 2",
+    "foto": "https://via.placeholder.com/150",
+    "etiquetas": [
+      "Todo",
+      "Cenas",
+      "Comida rápida"
+    ],
+    "menus": [
+      {
+        "nombre": "Menu 3",
+        "precio": 12,
+        "descripcion": "Un menú genial",
+        "etiqueta": "Carnívoro",
+        "imagen": "https://via.placeholder.com/100"
+      }
+    ]
+  }
+]

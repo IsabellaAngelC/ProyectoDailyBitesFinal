@@ -1,0 +1,128 @@
+[
+  {
+    "codigoPedido": "X4KXHI71",
+    "nombreCliente": "adad",
+    "correoCliente": "adad",
+    "horaEntrega": "8:00",
+    "metodoPago": "Efectivo",
+    "cantidad": 3,
+    "totalAPagar": 30,
+    "menu": {
+      "nombre": "Menu 1",
+      "precio": 10,
+      "etiqueta": "Vegetariano",
+      "descripcion": "Delicioso menú de prueba"
+    },
+    "tienda": {
+      "nombre": "Tienda 1"
+    }
+  },
+  {
+    "codigoPedido": "ZMEDFDRF",
+    "nombreCliente": "fdfdf",
+    "correoCliente": "adad",
+    "horaEntrega": "7:00",
+    "metodoPago": "Efectivo",
+    "cantidad": 1,
+    "totalAPagar": 12,
+    "menu": {
+      "nombre": "Menu 3",
+      "precio": 12,
+      "etiqueta": "Carnívoro",
+      "descripcion": "Un menú genial"
+    },
+    "tienda": {
+      "nombre": "Tienda 2"
+    }
+  },
+  {
+    "codigoPedido": "44KWXPTZ",
+    "nombreCliente": "ad",
+    "correoCliente": "ad",
+    "horaEntrega": "7:00",
+    "metodoPago": "Banco",
+    "cantidad": 4,
+    "totalAPagar": 44932,
+    "menu": {
+      "nombre": "pizzza 2",
+      "precio": 11233,
+      "etiqueta": "Comida rápida",
+      "descripcion": "dsad"
+    },
+    "tienda": {
+      "nombre": "Tienda 1"
+    }
+  },
+  {
+    "codigoPedido": "WRGCMWUA",
+    "nombreCliente": "kjkg",
+    "correoCliente": ",mjbjkb",
+    "horaEntrega": "13:00",
+    "metodoPago": "Efectivo",
+    "cantidad": 5,
+    "totalAPagar": 5000000,
+    "menu": {
+      "nombre": "Pizza",
+      "precio": 1000000,
+      "etiqueta": "Comida rápida",
+      "descripcion": "rica"
+    },
+    "tienda": {
+      "nombre": "Tienda 1"
+    }
+  },
+  {
+    "codigoPedido": "VUXD2MZY",
+    "nombreCliente": "pedro",
+    "correoCliente": "pascal",
+    "horaEntrega": "10:00",
+    "metodoPago": "Nequi",
+    "cantidad": 3,
+    "totalAPagar": 30,
+    "menu": {
+      "nombre": "Menu 1",
+      "precio": 10,
+      "etiqueta": "Vegetariano",
+      "descripcion": "Delicioso menú de prueba"
+    },
+    "tienda": {
+      "nombre": "Tienda 1"
+    }
+  },
+  {
+    "codigoPedido": "085HADGG",
+    "nombreCliente": "aaaaa",
+    "correoCliente": "aaaaa",
+    "horaEntrega": "14:00",
+    "metodoPago": "Efectivo",
+    "cantidad": 2,
+    "totalAPagar": 24,
+    "menu": {
+      "nombre": "Menu 3",
+      "precio": 12,
+      "etiqueta": "Carnívoro",
+      "descripcion": "Un menú genial"
+    },
+    "tienda": {
+      "nombre": "Tienda 2"
+    }
+  },
+  {
+    "codigoPedido": "DRJ9GXBD",
+    "nombreCliente": "aaaa",
+    "correoCliente": "loperazu@gmial.com",
+    "horaEntrega": "14:00",
+    "metodoPago": "Banco",
+    "cantidad": 9,
+    "totalAPagar": 9000000,
+    "menu": {
+      "nombre": "Pizza",
+      "precio": 1000000,
+      "etiqueta": "Comida rápida",
+      "descripcion": "rica"
+    },
+    "tienda": {
+      "nombre": "Tienda 1"
+    }
+  }
+]

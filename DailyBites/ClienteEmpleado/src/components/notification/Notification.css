@@ -1,0 +1,22 @@
+/* Notification.css */
+.notificaciones-icono {
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .notificaciones-icono img {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .contador-notificaciones {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 5px;
+    font-size: 12px;
+  }
+  
